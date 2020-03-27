@@ -6,3 +6,5 @@ Ubuntu 19.04 x64 bit
 Download mesa-19.0.2: https://yadi.sk/d/028OC2TKaJSyGA
 
 $$ sudo tar xvpf mesa-19.0.2.tar.xz -C /
+
+not tearing gnome , budgie , cinnamon
