@@ -3,7 +3,7 @@ mesa-19.0.2 , tearing minimum xfce4 , not tearing gnome , budgie , cinnamon
 
 Ubuntu 19.04 x64 bit 
 
-Download mesa-19.0.2: https://yadi.sk/d/1kNLY_33vWxOLA
+Download mesa-19.0.2: https://yadi.sk/d/1kNLY_33vWxOLA inpack instructions readme
 
 
 not tearing gnome , budgie , cinnamon
